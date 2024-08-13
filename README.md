@@ -12,19 +12,6 @@ This project implements a graph data structure using nodes and edges in C++. The
 - **Node Class**: Represents a graph node with properties such as ID, data, position (x, y), and a linked list of edges.
 - **Edge Struct**: Represents a connection between two nodes, including a weight for weighted graphs.
 
-## How to Use
-1. Clone the repository:
-    ```sh
-    git clone https://github.com/yourusername/your-repository-name.git
-    ```
-2. Compile the code:
-    ```sh
-    g++ main.cpp -o graph
-    ```
-3. Run the program:
-    ```sh
-    ./graph
-    ```
 
 ## Dependencies
 - C++11 or later (Ensure that your compiler supports C++11 standards or higher).
